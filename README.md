@@ -1,16 +1,25 @@
-## Hi there 👋
+<div dir="rtl" align="right">
 
-<!--
-**bahmanemamipari/bahmanemamipari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# سلام، من بهمن هستم 👋
 
-Here are some ideas to get you started:
+مهندس کامپیوتر (نرم‌افزار) با کارشناسی ارشد فناوری اطلاعات (شبکه). حدود ۷ سال در حوزه‌ی مخابرات کار کرده‌ام و تخصص اصلی‌ام تجهیزات Ericsson است.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## روی چه کارهایی کار می‌کنم
+
+- **نقشه‌ی کیفیت شبکه‌ی موبایل:** ثبت و نمایش کیفیت آنتن‌دهی اپراتورها در مناطق مختلف
+- **ابزار ساخت اسکریپت XML:** یک ابزار وب برای ساخت سریع اسکریپت سایت‌های مخابراتی جدید
+- **بازگشت به برنامه‌نویسی:** مرور و تمرین دوباره با Python
+
+## ابزارها و زبان‌ها
+
+C ، C++ ، Java ، Python (در حال یادگیری مجدد)
+
+## حوزه‌های تخصصی
+
+شبکه و مخابرات، نگهداری و راه‌اندازی سایت‌های مخابراتی، عیب‌یابی
+
+## ارتباط با من
+
+- اینستاگرام: bahmanpari.ai
+
+</div>
